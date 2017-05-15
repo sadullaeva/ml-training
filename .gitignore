@@ -1,0 +1,11 @@
+###  Linux ###
+*~
+.directory
+.Trash-*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.idea
+*.pyc
+*.npz
